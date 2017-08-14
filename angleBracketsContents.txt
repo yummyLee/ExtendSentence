@@ -1,0 +1,13 @@
+<singer>:
+"dsadsa"|
+"tertert"|
+"rewrew"
+
+<song>:
+"hdjjd"|
+"poip"
+
+<action>:
+"mnbmbn"|
+"ljkl"|
+"hgfh"
