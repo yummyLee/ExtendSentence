@@ -102,11 +102,6 @@ public class ExtendSentence {
         if (!isError) {
             return results;
         } else {
-            FileWriter fileWriter = new FileWriter("errorInfo.txt");
-            SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss ");
-            fileWriter.append(simpleDateFormat.format(new Date()));
-            fileWriter.append("句法格式错误：").append(s);
-            fileWriter.close();
             return new ArrayList<>();
         }
 
@@ -149,17 +144,22 @@ public class ExtendSentence {
         return finalResult;
     }
 
-    public static void batchProcess(String fileName, String resFileName) throws IOException {
+    public void batchProcess(String fileName, String resFileName, boolean isForSearch) throws IOException {
 
         FileReader fileReader = new FileReader(fileName);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         String s;
+        FileWriter errorWriter = new FileWriter(new File(fileName).getName() + "-error-info.txt", true);
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss ");
+        errorWriter.append(simpleDateFormat.format(new Date())).append(fileName).append("\r\n");
+
 
         FileWriter fileWriter = new FileWriter(resFileName);
 
         int startSign = 0;
         while ((s = bufferedReader.readLine()) != null) {
             if (Objects.equals(s, "")) {
+                fileWriter.append("\r\n");
                 startSign = 0;
                 continue;
             }
@@ -170,6 +170,9 @@ public class ExtendSentence {
             }
             s = s.replace("\"", "");
             ArrayList<String> res = extendOne(s);
+            if (res.size() == 0) {
+                errorWriter.append("句法格式错误：").append(s);
+            }
             for (String resStr : res) {
                 int count = 0;
                 resStr = resStr.replaceAll(" +", " ");
@@ -182,17 +185,26 @@ public class ExtendSentence {
                 }
 //                System.out.println(count);
                 resStr = resStr.substring(count);
+                if (isForSearch) {
+                    fileWriter.append("#");
+                }
                 fileWriter.append(resStr).append("\r\n");
             }
+            if (isForSearch) {
+                fileWriter.append("##").append("\r\n");
+            }
         }
+        errorWriter.append("\r\n");
+        errorWriter.close();
         fileWriter.close();
+        bufferedReader.close();
     }
 
 
     public static void main(String[] args) throws IOException {
 
-        extendOne("[聪明的|可爱的] 我是 [狗[蛋|剩]子的|猫的] [帅气的|可爱的] (男主人|女主人) 的 [宝宝的|大大的] 玩具").forEach(System.out::println);
-        //batchProcess(new File(args[0]), args[1]);
+        //       extendOne("[聪明的|可爱的] 我是 [狗[蛋|剩]子的|猫的] [帅气的|可爱的] (男主人|女主人) 的 [宝宝的|大大的] 玩具").forEach(System.out::println);
+        new ExtendSentence().batchProcess("bnfs-dir-start.txt", "bnfs-dir-start-parse-result2.txt", false);
 //        batchProcess(args[0], args[1]);
         //batchProcess("ss.txt", "res.txt");
     }

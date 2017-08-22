@@ -1,0 +1,23 @@
+#BNF+IAT 1.0
+!grammer Songs
+
+!slot <stableSpeech>;
+!slot <SongsSongsSongsSongsSongs>;
+!slot <prePlaySong>;
+
+!start <songsstart>;
+<songsstart>:
+(<SongsSongsSongsSongsSongs>)|
+
+(<prePlaySong> <SongsSongsSongsSongsSongs>);
+
+<SongsSongsSongsSongsSongs>:
+"song"|
+"songs";
+
+<prePlaySong>:
+"listen"|
+"turn to";
+
+<stableSpeech>:
+"please";

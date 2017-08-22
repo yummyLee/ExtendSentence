@@ -1,0 +1,9 @@
+collection: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+songs: <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 10
+  collection navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+turn to     collection: match failed
+turn to songs: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+turn to please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate  to navigate to please col: <prePlayCollection>  <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+please col: <stableSpeech> in speech_col_test.bnf line 15
+please: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10

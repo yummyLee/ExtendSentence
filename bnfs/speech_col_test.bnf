@@ -1,0 +1,29 @@
+#BNF+IAT 1.0
+!grammer Collection
+
+!slot <stableSpeech>;
+!slot <CollectionCollectionCollectionCollectionCollection>;
+!slot <prePlayCollection>;
+!slot <howToPlay>;
+
+!start <collectionstart>;
+<collectionstart>:(<CollectionCollectionCollectionCollectionCollection>)|
+(<prePlayCollection> <stableSpeech>)|
+
+(<prePlayCollection> [<stableSpeech> | <prePlayCollection>] <stableSpeech>)|
+(<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>)|
+(<howToPlay>);
+
+<howToPlay>:<prePlayCollection>|<stableSpeech>;
+
+
+<CollectionCollectionCollectionCollectionCollection>:"collections"|
+"please"|
+"collection";
+
+<prePlayCollection>:
+"navigate to"|
+"turn to";
+
+<stableSpeech>:
+"please col";
