@@ -104,6 +104,9 @@ public class FindPattern {
                     //System.out.println(speech);
                     String[] sp = speech.split("#");
                     int line = Integer.parseInt(sp[1]);
+                    if (sp[2].charAt(0) == ' ') {
+                        sp[2] = sp[2].substring(1);
+                    }
                     slotRoot.insertSlotRoot(sp[2], line, title.replace("###", ""));
                 }
             }
@@ -175,6 +178,7 @@ public class FindPattern {
                 sb.append(" ");
             }
             sb.append(words[i]);
+            // System.out.println("sb = " + sb);
             Set<String> slotSet;
             if (words[i].startsWith("<")) {
                 slotSet = new HashSet<>();
@@ -189,24 +193,27 @@ public class FindPattern {
                     TrieNode ssRoot = pSRoot.sons.get(slot);
                     if (ssRoot.isEnd && i == words.length - 1) {
 //                        System.out.println("Found");
+                        //System.out.println(speech + "<" + slot + "> in " + ssRoot.bnfFileName + " line " + ssRoot.line);
                         return speech + "<" + slot + "> in " + ssRoot.bnfFileName + " line " + ssRoot.line;
                     }
                     String nextRes;
                     if (speech.length() > 0) {
-
                         nextRes = speech + " <" + slot + "> ";
                     } else {
                         nextRes = "<" + slot + "> ";
                     }
                     //System.out.println(sentence);
                     //System.out.println(sb);
-                    String res = findSentence(sentence.substring(sb.length() + 1), ssRoot, cRoot, nextRes);
-                    if (res.length() > 0) {
-                        return res;
+                    if (sb.length() + 1 <= sentence.length()) {
+                        String res = findSentence(sentence.substring(sb.length() + 1), ssRoot, cRoot, nextRes);
+                        if (res.length() > 0) {
+                            return res.replaceAll(" +", " ");
+                        }
                     }
                 }
             }
         }
+
         return "";
     }
 
@@ -237,17 +244,16 @@ public class FindPattern {
         generateTrieNodeByContents(contentFile.getName());
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(sentenceFileName), "utf-8"));
-        FileWriter fileWriter = new FileWriter(sentenceFileName + "-match-result.txt");
+        FileWriter successWriter = new FileWriter(sentenceFileName + "-match-success-result.txt");
+        FileWriter failWriter = new FileWriter(sentenceFileName + "-match-failed-result.txt");
         String readLine = null;
         while ((readLine = bufferedReader.readLine()) != null) {
             String res = findSentence(readLine, slotRoot, contentRoot, "");
-            fileWriter.append(readLine).append(": ");
             if (res.length() == 0) {
-                fileWriter.append("match failed");
+                failWriter.append(readLine).append(": ").append("match failed").append("\r\n");;
             } else {
-                fileWriter.append(res);
+                successWriter.append(readLine).append(": ").append(res).append("\r\n");;
             }
-            fileWriter.append("\r\n");
         }
         //findPattern.passTree(findPattern.slotRoot);
         //startFile.delete();
@@ -255,14 +261,15 @@ public class FindPattern {
         //parseResultFile.delete();
         mergeReportFile.delete();
         bufferedReader.close();
-        fileWriter.close();
+        successWriter.close();
+        failWriter.close();
     }
 
-    public static void main(String[] argss) throws IOException {
-        String[] args = new String[3];
-        args[0] = "1";
-        args[1] = "bnfs";
-        args[2] = "testMatch.txt";
+    public static void main(String[] args) throws IOException {
+//        String[] args = new String[3];
+//        args[0] = "4";
+//        args[1] = "bnfs";
+//        args[2] = "bnfs-all-sentences.txt";
 
         switch (args[0]) {
             case "0":

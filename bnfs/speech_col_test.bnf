@@ -8,7 +8,6 @@
 
 !start <collectionstart>;
 <collectionstart>:(<CollectionCollectionCollectionCollectionCollection>)|
-(<prePlayCollection> <stableSpeech>)|
 
 (<prePlayCollection> [<stableSpeech> | <prePlayCollection>] <stableSpeech>)|
 (<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>)|
@@ -20,10 +19,8 @@
 <CollectionCollectionCollectionCollectionCollection>:"collections"|
 "please"|
 "collection";
-
 <prePlayCollection>:
 "navigate to"|
 "turn to";
-
 <stableSpeech>:
 "please col";

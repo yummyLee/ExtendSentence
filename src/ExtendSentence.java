@@ -1,6 +1,8 @@
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class ExtendSentence {
 
@@ -200,11 +202,90 @@ public class ExtendSentence {
         bufferedReader.close();
     }
 
+    private HashMap<String, ArrayList<String>> getHashMapFromMyContent(String contentFileName) throws IOException {
+        BufferedReader cBufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(contentFileName), "utf-8"));
+        HashMap<String, ArrayList<String>> hashMap = new HashMap<>();
+        String slotName = null;
+        while ((slotName = cBufferedReader.readLine()) != null) {
+            if (slotName.startsWith("#")) {
+                String cLine = null;
+                ArrayList<String> contents = new ArrayList<>();
+                while ((cLine = cBufferedReader.readLine()) != null && cLine.length() > 0) {
+                    contents.add(cLine);
+                }
+                hashMap.put(slotName.substring(1), contents);
+            }
+        }
+        return hashMap;
+    }
+
+    private void getAllSentenceFromParseResult(String parseResultFileName, String contentFileName) throws IOException {
+        BufferedReader prBufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(parseResultFileName), "utf-8"));
+        String speech = null;
+        HashMap<String, ArrayList<String>> contents = getHashMapFromMyContent(contentFileName);
+        FileWriter fileWriter = new FileWriter(parseResultFileName.split("-")[0] + "-all-sentences.txt");
+        while ((speech = prBufferedReader.readLine()) != null) {
+            if (speech.startsWith("###") || !speech.contains("#")) {
+                continue;
+            }
+            ArrayList<String> sentences = getSentenceFrom(speech.split("#")[1], contents);
+            sentences.forEach((s) -> {
+                try {
+                    fileWriter.append(s).append("\r\n");
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            });
+        }
+        fileWriter.close();
+    }
+
+    private ArrayList<String> getSentenceFrom(String sentence, HashMap<String, ArrayList<String>> hashMap) {
+        if (sentence.length() == 0) {
+            return new ArrayList<>();
+        }
+        //System.out.println("s=" + sentence);
+        Pattern pattern = Pattern.compile("<\\w*?>");
+        Matcher matcher = pattern.matcher(sentence);
+        ArrayList<String> content = new ArrayList<>();
+        ArrayList<String> posts;
+        ArrayList<String> res = new ArrayList<>();
+        if (matcher.find()) {
+            String ab = matcher.group();
+            content.addAll(hashMap.get(ab.replace("<", "").replace(">", "")));
+            //System.out.println(content.size());
+//            System.out.println(ab + "--content size = " + content.size());
+            content.add(ab);
+//            System.out.println(ab + "--content size = " + content.size());
+            posts = getSentenceFrom(sentence.substring(matcher.end()), hashMap);
+        } else {
+            content = new ArrayList<>();
+            posts = new ArrayList<>();
+        }
+
+        System.out.println("---content----");
+        content.forEach(System.out::println);
+
+        if (posts.size() == 0) {
+            return content;
+        } else {
+            content.forEach((c) -> {
+                //System.out.println("ccc = " + c);
+                posts.forEach((post) -> {
+                    //System.out.println("post = " + post);
+                    res.add(c + " " + post);
+                });
+            });
+        }
+        return res;
+    }
+
 
     public static void main(String[] args) throws IOException {
 
         //       extendOne("[聪明的|可爱的] 我是 [狗[蛋|剩]子的|猫的] [帅气的|可爱的] (男主人|女主人) 的 [宝宝的|大大的] 玩具").forEach(System.out::println);
-        new ExtendSentence().batchProcess("bnfs-dir-start.txt", "bnfs-dir-start-parse-result2.txt", false);
+        new ExtendSentence().batchProcess("bnfs-dir-start.txt", "bnfs-dir-start-parse-result.txt", false);
+        new ExtendSentence().getAllSentenceFromParseResult("bnfs-dir-start-parse-result.txt", "bnfs-dir-content.txt");
 //        batchProcess(args[0], args[1]);
         //batchProcess("ss.txt", "res.txt");
     }

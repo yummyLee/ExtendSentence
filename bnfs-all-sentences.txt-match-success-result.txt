@@ -1,0 +1,954 @@
+collections: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+please: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+collection: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+<CollectionCollectionCollectionCollectionCollection>: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+navigate to please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please col: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> please: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech> <stableSpeech>: <prePlayCollection> <stableSpeech> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> navigate to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> turn to <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please col: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> please: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <prePlayCollection> <stableSpeech>: <prePlayCollection> <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+navigate to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+turn to <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please col: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> please: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+<prePlayCollection> <stableSpeech>: <prePlayCollection> <stableSpeech> in speech_col_test.bnf line 13
+collections navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections turn to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collections <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please turn to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+please <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection turn to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+collection <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> turn to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> navigate to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> turn to: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>: <CollectionCollectionCollectionCollectionCollection> <prePlayCollection> in speech_col_test.bnf line 14
+navigate to: <prePlayCollection> in speech_col_test.bnf line 15
+turn to: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+<prePlayCollection>: <prePlayCollection> in speech_col_test.bnf line 15
+please col: <stableSpeech> in speech_col_test.bnf line 15
+please: <CollectionCollectionCollectionCollectionCollection> in speech_col_test.bnf line 10
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+<stableSpeech>: <stableSpeech> in speech_col_test.bnf line 15
+I want send name cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+I want <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> send <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> name <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> cellphone <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> phone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> telephone code <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> number <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> to <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> name: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts> in speech_snednum_test.bnf line 9
+song: <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 10
+songs: <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 10
+<SongsSongsSongsSongsSongs>: <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 10
+listen song: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+listen songs: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+listen <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+listen <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+turn to song: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+turn to songs: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+turn to <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+turn to <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+<prePlaySong> song: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+<prePlaySong> songs: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+<prePlaySong> <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12
+<prePlaySong> <SongsSongsSongsSongsSongs>: <prePlaySong> <SongsSongsSongsSongsSongs> in speech_songs_test.bnf line 12

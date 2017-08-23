@@ -17,7 +17,7 @@ public class SpeechTool {
     private String slotFileName;
     private String targetFilePost;
 
-    private ArrayList<String> angleBracketsCheck(String s) {
+    public ArrayList<String> angleBracketsCheck(String s) {
         ArrayList<String> res = new ArrayList<>();
         Pattern pattern = Pattern.compile("<\\w*?>");
         Matcher matcher = pattern.matcher(s);
@@ -108,6 +108,7 @@ public class SpeechTool {
         while ((temp = bufferedReader.readLine()) != null) {
             readLineCount++;
             ArrayList<String> matchRes = angleBracketsCheck(temp);
+            //System.out.println(temp);
             if (temp.startsWith("!start")) {
                 startSlot = matchRes.get(0);
                 slotName = startSlot;
@@ -270,7 +271,9 @@ public class SpeechTool {
 
                     set.forEach((speech) -> {
                         try {
+                            //System.out.println("before = " + speech);
                             speech = replaceAB(speech, hashMap);
+                            //System.out.println("after = " + speech);
                             startWriter.append(speech).append("\r\n");
                             //System.out.println(speech);
                         } catch (IOException e) {
@@ -367,6 +370,7 @@ public class SpeechTool {
         //System.out.println(oSpeech);
         boolean isContinue = false;
         while (true) {
+            //System.out.println(oSpeech);
             Matcher matcher = pattern.matcher(oSpeech);
             String ab = "";
             if (matcher.find()) {
@@ -379,20 +383,21 @@ public class SpeechTool {
             if (hashMap.containsKey(abw)) {
                 ArrayList<String> speeches = hashMap.get(abw);
                 StringBuilder tempRes = new StringBuilder();
-                if (speeches.size() == 1) {
-                    tempRes.append(speeches.get(0));
-                } else {
-                    for (int i = 0; i < speeches.size(); i++) {
-                        String speech = speeches.get(i);
-                        if (!speech.contains("<")) {
-                            return oSpeech;
-                        }
+//                if (speeches.size() == 1) {
+//                    tempRes.append(speeches.get(0));
+//                } else {
+                for (int i = 0; i < speeches.size(); i++) {
+                    String speech = speeches.get(i);
+                    if (!speech.contains("<")) {
+                        return oSpeech;
+                    } else {
                         tempRes.append("(").append(speech).append(")");
                         if (i != speeches.size() - 1) {
                             tempRes.append("|");
                         }
                     }
                 }
+//                }
                 oSpeech = oSpeech.replace(ab, tempRes.toString());
             }
         }
@@ -437,7 +442,7 @@ public class SpeechTool {
         //checkFrequencyOfSlot(args[0]);
 //        checkFrequencyOfSlot("speech_songs_test.bnf");
         SpeechTool speechTool = new SpeechTool();
-        speechTool.mergeBnfFiles("bnf", "merge_res.bnf");
+        speechTool.mergeBnfFiles("bnfs", "merge_res.bnf");
 //        HashMap<String, ArrayList<String>> contentsMap = speechTool.readPatternByContentFile();
 //        contentsMap.forEach((k, contents) -> {
 //            System.out.println(k);

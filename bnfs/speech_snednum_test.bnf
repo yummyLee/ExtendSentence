@@ -1,0 +1,25 @@
+#BNF+IAT 1.0
+!grammer SendNum
+!slot <sendnumwant>;
+!slot <Contacts>;
+!slot <callnumberto>;
+!slot <sendass>;
+!slot <to>
+!start <sendnumstart>;
+<sendnumstart>: <sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>;
+
+<sendnumwant>:
+"I want";
+<sendass>:
+send;
+<callnumberto>:
+"cellphone"|
+"phone number"|
+"telephone number"|
+"phone code"|
+"telephone code"|
+"number";
+<to>:
+to;
+<Contacts>:
+"name"

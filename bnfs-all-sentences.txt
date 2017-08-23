@@ -1,0 +1,321 @@
+collections
+please
+collection
+<CollectionCollectionCollectionCollectionCollection>
+navigate to please col please col
+navigate to please col please
+navigate to please col <stableSpeech>
+navigate to please please col
+navigate to please please
+navigate to please <stableSpeech>
+navigate to <stableSpeech> please col
+navigate to <stableSpeech> please
+navigate to <stableSpeech> <stableSpeech>
+turn to please col please col
+turn to please col please
+turn to please col <stableSpeech>
+turn to please please col
+turn to please please
+turn to please <stableSpeech>
+turn to <stableSpeech> please col
+turn to <stableSpeech> please
+turn to <stableSpeech> <stableSpeech>
+<prePlayCollection> please col please col
+<prePlayCollection> please col please
+<prePlayCollection> please col <stableSpeech>
+<prePlayCollection> please please col
+<prePlayCollection> please please
+<prePlayCollection> please <stableSpeech>
+<prePlayCollection> <stableSpeech> please col
+<prePlayCollection> <stableSpeech> please
+<prePlayCollection> <stableSpeech> <stableSpeech>
+navigate to navigate to please col
+navigate to navigate to please
+navigate to navigate to <stableSpeech>
+navigate to turn to please col
+navigate to turn to please
+navigate to turn to <stableSpeech>
+navigate to <prePlayCollection> please col
+navigate to <prePlayCollection> please
+navigate to <prePlayCollection> <stableSpeech>
+turn to navigate to please col
+turn to navigate to please
+turn to navigate to <stableSpeech>
+turn to turn to please col
+turn to turn to please
+turn to turn to <stableSpeech>
+turn to <prePlayCollection> please col
+turn to <prePlayCollection> please
+turn to <prePlayCollection> <stableSpeech>
+<prePlayCollection> navigate to please col
+<prePlayCollection> navigate to please
+<prePlayCollection> navigate to <stableSpeech>
+<prePlayCollection> turn to please col
+<prePlayCollection> turn to please
+<prePlayCollection> turn to <stableSpeech>
+<prePlayCollection> <prePlayCollection> please col
+<prePlayCollection> <prePlayCollection> please
+<prePlayCollection> <prePlayCollection> <stableSpeech>
+navigate to please col
+navigate to please
+navigate to <stableSpeech>
+turn to please col
+turn to please
+turn to <stableSpeech>
+<prePlayCollection> please col
+<prePlayCollection> please
+<prePlayCollection> <stableSpeech>
+collections navigate to
+collections turn to
+collections <prePlayCollection>
+please navigate to
+please turn to
+please <prePlayCollection>
+collection navigate to
+collection turn to
+collection <prePlayCollection>
+<CollectionCollectionCollectionCollectionCollection> navigate to
+<CollectionCollectionCollectionCollectionCollection> turn to
+<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>
+navigate to
+turn to
+<prePlayCollection>
+please col
+please
+<stableSpeech>
+I want send name cellphone to name
+I want send name cellphone to <Contacts>
+I want send name cellphone <to> name
+I want send name cellphone <to> <Contacts>
+I want send name phone number to name
+I want send name phone number to <Contacts>
+I want send name phone number <to> name
+I want send name phone number <to> <Contacts>
+I want send name telephone number to name
+I want send name telephone number to <Contacts>
+I want send name telephone number <to> name
+I want send name telephone number <to> <Contacts>
+I want send name phone code to name
+I want send name phone code to <Contacts>
+I want send name phone code <to> name
+I want send name phone code <to> <Contacts>
+I want send name telephone code to name
+I want send name telephone code to <Contacts>
+I want send name telephone code <to> name
+I want send name telephone code <to> <Contacts>
+I want send name number to name
+I want send name number to <Contacts>
+I want send name number <to> name
+I want send name number <to> <Contacts>
+I want send name <callnumberto> to name
+I want send name <callnumberto> to <Contacts>
+I want send name <callnumberto> <to> name
+I want send name <callnumberto> <to> <Contacts>
+I want send <Contacts> cellphone to name
+I want send <Contacts> cellphone to <Contacts>
+I want send <Contacts> cellphone <to> name
+I want send <Contacts> cellphone <to> <Contacts>
+I want send <Contacts> phone number to name
+I want send <Contacts> phone number to <Contacts>
+I want send <Contacts> phone number <to> name
+I want send <Contacts> phone number <to> <Contacts>
+I want send <Contacts> telephone number to name
+I want send <Contacts> telephone number to <Contacts>
+I want send <Contacts> telephone number <to> name
+I want send <Contacts> telephone number <to> <Contacts>
+I want send <Contacts> phone code to name
+I want send <Contacts> phone code to <Contacts>
+I want send <Contacts> phone code <to> name
+I want send <Contacts> phone code <to> <Contacts>
+I want send <Contacts> telephone code to name
+I want send <Contacts> telephone code to <Contacts>
+I want send <Contacts> telephone code <to> name
+I want send <Contacts> telephone code <to> <Contacts>
+I want send <Contacts> number to name
+I want send <Contacts> number to <Contacts>
+I want send <Contacts> number <to> name
+I want send <Contacts> number <to> <Contacts>
+I want send <Contacts> <callnumberto> to name
+I want send <Contacts> <callnumberto> to <Contacts>
+I want send <Contacts> <callnumberto> <to> name
+I want send <Contacts> <callnumberto> <to> <Contacts>
+I want <sendass> name cellphone to name
+I want <sendass> name cellphone to <Contacts>
+I want <sendass> name cellphone <to> name
+I want <sendass> name cellphone <to> <Contacts>
+I want <sendass> name phone number to name
+I want <sendass> name phone number to <Contacts>
+I want <sendass> name phone number <to> name
+I want <sendass> name phone number <to> <Contacts>
+I want <sendass> name telephone number to name
+I want <sendass> name telephone number to <Contacts>
+I want <sendass> name telephone number <to> name
+I want <sendass> name telephone number <to> <Contacts>
+I want <sendass> name phone code to name
+I want <sendass> name phone code to <Contacts>
+I want <sendass> name phone code <to> name
+I want <sendass> name phone code <to> <Contacts>
+I want <sendass> name telephone code to name
+I want <sendass> name telephone code to <Contacts>
+I want <sendass> name telephone code <to> name
+I want <sendass> name telephone code <to> <Contacts>
+I want <sendass> name number to name
+I want <sendass> name number to <Contacts>
+I want <sendass> name number <to> name
+I want <sendass> name number <to> <Contacts>
+I want <sendass> name <callnumberto> to name
+I want <sendass> name <callnumberto> to <Contacts>
+I want <sendass> name <callnumberto> <to> name
+I want <sendass> name <callnumberto> <to> <Contacts>
+I want <sendass> <Contacts> cellphone to name
+I want <sendass> <Contacts> cellphone to <Contacts>
+I want <sendass> <Contacts> cellphone <to> name
+I want <sendass> <Contacts> cellphone <to> <Contacts>
+I want <sendass> <Contacts> phone number to name
+I want <sendass> <Contacts> phone number to <Contacts>
+I want <sendass> <Contacts> phone number <to> name
+I want <sendass> <Contacts> phone number <to> <Contacts>
+I want <sendass> <Contacts> telephone number to name
+I want <sendass> <Contacts> telephone number to <Contacts>
+I want <sendass> <Contacts> telephone number <to> name
+I want <sendass> <Contacts> telephone number <to> <Contacts>
+I want <sendass> <Contacts> phone code to name
+I want <sendass> <Contacts> phone code to <Contacts>
+I want <sendass> <Contacts> phone code <to> name
+I want <sendass> <Contacts> phone code <to> <Contacts>
+I want <sendass> <Contacts> telephone code to name
+I want <sendass> <Contacts> telephone code to <Contacts>
+I want <sendass> <Contacts> telephone code <to> name
+I want <sendass> <Contacts> telephone code <to> <Contacts>
+I want <sendass> <Contacts> number to name
+I want <sendass> <Contacts> number to <Contacts>
+I want <sendass> <Contacts> number <to> name
+I want <sendass> <Contacts> number <to> <Contacts>
+I want <sendass> <Contacts> <callnumberto> to name
+I want <sendass> <Contacts> <callnumberto> to <Contacts>
+I want <sendass> <Contacts> <callnumberto> <to> name
+I want <sendass> <Contacts> <callnumberto> <to> <Contacts>
+<sendnumwant> send name cellphone to name
+<sendnumwant> send name cellphone to <Contacts>
+<sendnumwant> send name cellphone <to> name
+<sendnumwant> send name cellphone <to> <Contacts>
+<sendnumwant> send name phone number to name
+<sendnumwant> send name phone number to <Contacts>
+<sendnumwant> send name phone number <to> name
+<sendnumwant> send name phone number <to> <Contacts>
+<sendnumwant> send name telephone number to name
+<sendnumwant> send name telephone number to <Contacts>
+<sendnumwant> send name telephone number <to> name
+<sendnumwant> send name telephone number <to> <Contacts>
+<sendnumwant> send name phone code to name
+<sendnumwant> send name phone code to <Contacts>
+<sendnumwant> send name phone code <to> name
+<sendnumwant> send name phone code <to> <Contacts>
+<sendnumwant> send name telephone code to name
+<sendnumwant> send name telephone code to <Contacts>
+<sendnumwant> send name telephone code <to> name
+<sendnumwant> send name telephone code <to> <Contacts>
+<sendnumwant> send name number to name
+<sendnumwant> send name number to <Contacts>
+<sendnumwant> send name number <to> name
+<sendnumwant> send name number <to> <Contacts>
+<sendnumwant> send name <callnumberto> to name
+<sendnumwant> send name <callnumberto> to <Contacts>
+<sendnumwant> send name <callnumberto> <to> name
+<sendnumwant> send name <callnumberto> <to> <Contacts>
+<sendnumwant> send <Contacts> cellphone to name
+<sendnumwant> send <Contacts> cellphone to <Contacts>
+<sendnumwant> send <Contacts> cellphone <to> name
+<sendnumwant> send <Contacts> cellphone <to> <Contacts>
+<sendnumwant> send <Contacts> phone number to name
+<sendnumwant> send <Contacts> phone number to <Contacts>
+<sendnumwant> send <Contacts> phone number <to> name
+<sendnumwant> send <Contacts> phone number <to> <Contacts>
+<sendnumwant> send <Contacts> telephone number to name
+<sendnumwant> send <Contacts> telephone number to <Contacts>
+<sendnumwant> send <Contacts> telephone number <to> name
+<sendnumwant> send <Contacts> telephone number <to> <Contacts>
+<sendnumwant> send <Contacts> phone code to name
+<sendnumwant> send <Contacts> phone code to <Contacts>
+<sendnumwant> send <Contacts> phone code <to> name
+<sendnumwant> send <Contacts> phone code <to> <Contacts>
+<sendnumwant> send <Contacts> telephone code to name
+<sendnumwant> send <Contacts> telephone code to <Contacts>
+<sendnumwant> send <Contacts> telephone code <to> name
+<sendnumwant> send <Contacts> telephone code <to> <Contacts>
+<sendnumwant> send <Contacts> number to name
+<sendnumwant> send <Contacts> number to <Contacts>
+<sendnumwant> send <Contacts> number <to> name
+<sendnumwant> send <Contacts> number <to> <Contacts>
+<sendnumwant> send <Contacts> <callnumberto> to name
+<sendnumwant> send <Contacts> <callnumberto> to <Contacts>
+<sendnumwant> send <Contacts> <callnumberto> <to> name
+<sendnumwant> send <Contacts> <callnumberto> <to> <Contacts>
+<sendnumwant> <sendass> name cellphone to name
+<sendnumwant> <sendass> name cellphone to <Contacts>
+<sendnumwant> <sendass> name cellphone <to> name
+<sendnumwant> <sendass> name cellphone <to> <Contacts>
+<sendnumwant> <sendass> name phone number to name
+<sendnumwant> <sendass> name phone number to <Contacts>
+<sendnumwant> <sendass> name phone number <to> name
+<sendnumwant> <sendass> name phone number <to> <Contacts>
+<sendnumwant> <sendass> name telephone number to name
+<sendnumwant> <sendass> name telephone number to <Contacts>
+<sendnumwant> <sendass> name telephone number <to> name
+<sendnumwant> <sendass> name telephone number <to> <Contacts>
+<sendnumwant> <sendass> name phone code to name
+<sendnumwant> <sendass> name phone code to <Contacts>
+<sendnumwant> <sendass> name phone code <to> name
+<sendnumwant> <sendass> name phone code <to> <Contacts>
+<sendnumwant> <sendass> name telephone code to name
+<sendnumwant> <sendass> name telephone code to <Contacts>
+<sendnumwant> <sendass> name telephone code <to> name
+<sendnumwant> <sendass> name telephone code <to> <Contacts>
+<sendnumwant> <sendass> name number to name
+<sendnumwant> <sendass> name number to <Contacts>
+<sendnumwant> <sendass> name number <to> name
+<sendnumwant> <sendass> name number <to> <Contacts>
+<sendnumwant> <sendass> name <callnumberto> to name
+<sendnumwant> <sendass> name <callnumberto> to <Contacts>
+<sendnumwant> <sendass> name <callnumberto> <to> name
+<sendnumwant> <sendass> name <callnumberto> <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> cellphone to name
+<sendnumwant> <sendass> <Contacts> cellphone to <Contacts>
+<sendnumwant> <sendass> <Contacts> cellphone <to> name
+<sendnumwant> <sendass> <Contacts> cellphone <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> phone number to name
+<sendnumwant> <sendass> <Contacts> phone number to <Contacts>
+<sendnumwant> <sendass> <Contacts> phone number <to> name
+<sendnumwant> <sendass> <Contacts> phone number <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> telephone number to name
+<sendnumwant> <sendass> <Contacts> telephone number to <Contacts>
+<sendnumwant> <sendass> <Contacts> telephone number <to> name
+<sendnumwant> <sendass> <Contacts> telephone number <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> phone code to name
+<sendnumwant> <sendass> <Contacts> phone code to <Contacts>
+<sendnumwant> <sendass> <Contacts> phone code <to> name
+<sendnumwant> <sendass> <Contacts> phone code <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> telephone code to name
+<sendnumwant> <sendass> <Contacts> telephone code to <Contacts>
+<sendnumwant> <sendass> <Contacts> telephone code <to> name
+<sendnumwant> <sendass> <Contacts> telephone code <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> number to name
+<sendnumwant> <sendass> <Contacts> number to <Contacts>
+<sendnumwant> <sendass> <Contacts> number <to> name
+<sendnumwant> <sendass> <Contacts> number <to> <Contacts>
+<sendnumwant> <sendass> <Contacts> <callnumberto> to name
+<sendnumwant> <sendass> <Contacts> <callnumberto> to <Contacts>
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> name
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>
+song
+songs
+<SongsSongsSongsSongsSongs>
+listen song
+listen songs
+listen <SongsSongsSongsSongsSongs>
+turn to song
+turn to songs
+turn to <SongsSongsSongsSongsSongs>
+<prePlaySong> song
+<prePlaySong> songs
+<prePlaySong> <SongsSongsSongsSongsSongs>

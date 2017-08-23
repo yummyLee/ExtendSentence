@@ -1,0 +1,49 @@
+#callnumberto
+cellphone
+phone number
+telephone number
+phone code
+telephone code
+number
+
+#prePlayCollection
+navigate to
+turn to
+
+#howToPlay
+<prePlayCollection>|<stableSpeech>
+
+#sendnumwant
+I want
+
+#Contacts
+name
+
+#CollectionCollectionCollectionCollectionCollection
+collections
+please
+collection
+
+#stableSpeech
+please col
+please
+
+#sendass
+send
+
+#to
+to
+
+#prePlaySong
+listen
+turn to
+
+#SongsSongsSongsSongsSongs
+song
+songs
+
+#bnfFileName
+speech_col_test.bnf
+speech_snednum_test.bnf
+speech_songs_test.bnf
+

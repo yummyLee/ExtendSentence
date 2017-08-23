@@ -1,6 +1,0 @@
-2017-08-21 17:04:07 bnfs-dir-start.txt
-
-2017-08-21 17:05:01 bnfs-dir-start.txt
-句法格式错误：(<prePlayCollection> [<stableSpeech> | (<prePlayCollection>]) <stableSpeech>)
-2017-08-21 17:10:30 bnfs-dir-start.txt
-

@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb2f1246-5590-48d4-9579-4cc7b46ad862" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FindPattern(双重树，不太好查找).java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bnfs/speech_col_test.bnf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpeechTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testMatch.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/angleBracketsContents.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/errorInfo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ExtendSentence/ABContent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ss.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bnfs/speech_snednum_test.bnf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bnfs-dir-start-parse-result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bnfs-dir-start-parse-result2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bnfs-dir-start.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bnfs-dir-start.txt-errorInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bnfs-dir-stat-report.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/merge_res.bnf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testMatch.txt-match-result.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExtendSentence/ExtendSentence.class" afterPath="$PROJECT_DIR$/out/production/ExtendSentence/ExtendSentence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExtendSentence/FindPattern.class" afterPath="$PROJECT_DIR$/out/production/ExtendSentence/FindPattern.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExtendSentence/SpeechTool.class" afterPath="$PROJECT_DIR$/out/production/ExtendSentence/SpeechTool.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ABContent.java" afterPath="$PROJECT_DIR$/src/ABContent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindPattern(双重树，不太好查找).java" afterPath="$PROJECT_DIR$/FindPattern(双重树，不太好查找).java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpeechTool(FileWR-不能去重).java" afterPath="$PROJECT_DIR$/SpeechTool(FileWR-不能去重).java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bnfs/speech_col_test.bnf" afterPath="$PROJECT_DIR$/bnfs/speech_col_test.bnf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExtendSentence.java" afterPath="$PROJECT_DIR$/src/ExtendSentence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FindPattern.java" afterPath="$PROJECT_DIR$/src/FindPattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpeechTool.java" afterPath="$PROJECT_DIR$/src/SpeechTool.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +34,8 @@
       <file leaf-file-name="SpeechTool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpeechTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="76" column="11" lean-forward="false" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+            <state relative-caret-position="-4337">
+              <caret line="287" column="17" lean-forward="true" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,14 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindPattern.java">
+      <file leaf-file-name="speech_songs_test.bnf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs/speech_songs_test.bnf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="280" column="50" lean-forward="false" selection-start-line="280" selection-start-column="50" selection-end-line="280" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,25 +56,25 @@
       <file leaf-file-name="ExtendSentence.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ExtendSentence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="151" column="87" lean-forward="false" selection-start-line="151" selection-start-column="87" selection-end-line="151" selection-end-column="87" />
+            <state relative-caret-position="6831">
+              <caret line="257" column="28" lean-forward="true" selection-start-line="257" selection-start-column="28" selection-end-line="257" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bnfs-dir-start.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt">
+      <file leaf-file-name="bnfs-all-sentences.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="-7614">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bnfs-dir-start.txt-errorInfo.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt-errorInfo.txt">
+      <file leaf-file-name="bnfs-all-sentences.txt-match-failed-result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt-match-failed-result.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -83,31 +83,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bnfs-dir-start-parse-result.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result.txt">
+      <file leaf-file-name="bnfs-all-sentences.txt-match-success-result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt-match-success-result.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bnfs-dir-start-parse-result2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result2.txt">
+      <file leaf-file-name="FindPattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FindPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="679">
+              <caret line="267" column="40" lean-forward="false" selection-start-line="267" selection-start-column="40" selection-end-line="267" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="speech_col_test.bnf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs/speech_col_test.bnf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testMatch.txt-match-result.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testMatch.txt-match-result.txt">
+      <file leaf-file-name="speech_snednum_test.bnf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bnfs/speech_snednum_test.bnf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="567">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -131,7 +143,6 @@
       <find>HashSet</find>
       <find>Song</find>
       <find>&quot;speechStart&quot;</find>
-      <find>fileWriter</find>
       <find>speech</find>
       <find>pattern</find>
       <find>root</find>
@@ -149,6 +160,10 @@
       <find>args[0].substring(args[0].lastIndexOf(&quot;\\&quot;) + 1)</find>
       <find>System</find>
       <find>err</find>
+      <find>content</find>
+      <find>result2</find>
+      <find>fileWriter</find>
+      <find>replaceAB</find>
     </findStrings>
     <replaceStrings>
       <replace>matchers[1]</replace>
@@ -164,6 +179,7 @@
       <replace>&quot;bnfs&quot;</replace>
       <replace>args[0].substring(args[0].lastIndexOf(&quot;\\&quot;) + 1)</replace>
       <replace>filePostfix</replace>
+      <replace>successWriter</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -188,18 +204,23 @@
         <option value="$PROJECT_DIR$/bnf-dir-start.txt" />
         <option value="$PROJECT_DIR$/bnf-dir-start-parse-result.txt" />
         <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/FindPattern(双重树，不太好查找).java" />
         <option value="$PROJECT_DIR$/bnf/speech_songs_test.bnf" />
         <option value="$PROJECT_DIR$/bnf/speech_col_test.bnf" />
         <option value="$PROJECT_DIR$/merge_res.bnf" />
         <option value="$PROJECT_DIR$/bnfs-dir-start-parse-result.txt" />
-        <option value="$PROJECT_DIR$/bnfs/speech_col_test.bnf" />
         <option value="$PROJECT_DIR$/testMatch.txt" />
         <option value="$PROJECT_DIR$/testMatch.txt-match-result.txt" />
         <option value="$PROJECT_DIR$/bnfs-dir-start-parse-result2.txt" />
-        <option value="$PROJECT_DIR$/src/SpeechTool.java" />
-        <option value="$PROJECT_DIR$/src/FindPattern.java" />
         <option value="$PROJECT_DIR$/bnfs-dir-start.txt" />
+        <option value="$PROJECT_DIR$/FindPattern(双重树，不太好查找).java" />
+        <option value="$PROJECT_DIR$/SpeechTool(FileWR-不能去重).java" />
+        <option value="$PROJECT_DIR$/bnfs/speech_snednum_test.bnf" />
+        <option value="$PROJECT_DIR$/bnfs-dir-content.txt" />
+        <option value="$PROJECT_DIR$/bnfs-all-sentences.txt" />
+        <option value="$PROJECT_DIR$/src/SpeechTool.java" />
+        <option value="$PROJECT_DIR$/bnfs-all-sentences.txt-match-result.txt" />
+        <option value="$PROJECT_DIR$/src/FindPattern.java" />
+        <option value="$PROJECT_DIR$/bnfs/speech_col_test.bnf" />
         <option value="$PROJECT_DIR$/src/ExtendSentence.java" />
       </list>
     </option>
@@ -210,8 +231,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1254" />
     <option name="height" value="1000" />
   </component>
@@ -230,8 +252,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,8 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,11 +286,13 @@
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaPro\ExtendSentence\bnf" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaPro\ExtendSentence" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaPro\ExtendSentence\bnfs" />
+      <recent name="D:\JavaPro\ExtendSentence" />
+      <recent name="D:\JavaPro\ExtendSentence\bnf" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -445,8 +469,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.ExtendSentence" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindPattern" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SpeechTool" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SpeechTool" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindPattern" />
         <item index="3" class="java.lang.String" itemvalue="Application.Test" />
         <item index="4" class="java.lang.String" itemvalue="Application.Graph" />
       </list>
@@ -471,14 +495,16 @@
       <workItem from="1502768123706" duration="1599000" />
       <workItem from="1502932430498" duration="54046000" />
       <workItem from="1503275465045" duration="21666000" />
+      <workItem from="1503380609279" duration="14960000" />
+      <workItem from="1503403669134" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125443000" />
+    <option name="totallyTimeSpent" value="142329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="0" width="1254" height="1000" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -489,13 +515,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.50215983" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33173078" sideWeight="0.49568033" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4908884" sideWeight="0.49568033" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.49784017" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40097404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -507,6 +532,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -554,66 +580,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FindPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5913">
-          <caret line="224" column="94" lean-forward="false" selection-start-line="224" selection-start-column="94" selection-end-line="224" selection-end-column="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExtendSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/merge_res.bnf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpeechTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExtendSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpeechTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="125" column="48" lean-forward="true" selection-start-line="125" selection-start-column="48" selection-end-line="125" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-merge-report.txt" />
-    <entry file="file://$PROJECT_DIR$/merge_res.bnf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,37 +644,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angleBracketsContents.txt" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-content.txt" />
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-slot.txt" />
     <entry file="file://$PROJECT_DIR$/speech_songs_test.bnf-statistics-report.txt" />
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-stat-report.txt-statistics-report.txt" />
     <entry file="file://$PROJECT_DIR$/src/Graph.java" />
     <entry file="file://$PROJECT_DIR$/src/regTest.txt" />
-    <entry file="file://$PROJECT_DIR$/SpeechTool(FileWR-不能去重).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="148" column="27" lean-forward="true" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-merge-report.txt" />
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-stat-report.txt" />
     <entry file="file://$PROJECT_DIR$/ExtendSentence-dir-start.txt" />
-    <entry file="file://$PROJECT_DIR$/bnf-dir-stat-report.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bnf-dir-stat-report.txt" />
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -712,37 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bnf-dir-merge-report.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnf-dir-start-parse-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnf-dir-content.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnf-dir-start.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bnf-dir-merge-report.txt" />
+    <entry file="file://$PROJECT_DIR$/bnf-dir-start-parse-result.txt" />
+    <entry file="file://$PROJECT_DIR$/bnf-dir-content.txt" />
+    <entry file="file://$PROJECT_DIR$/bnf-dir-start.txt" />
     <entry file="file://$PROJECT_DIR$/src/ABContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -755,47 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4617">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-merge-report.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-content.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs/speech_songs_test.bnf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs/speech_col_test.bnf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindPattern(双重树，不太好查找).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,82 +691,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errorInfo.txt" />
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt-errorInfo.txt" />
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt-error-info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindPattern(双重树，不太好查找).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeechTool(FileWR-不能去重).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="167" column="25" lean-forward="true" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bnfs-stat-report.txt" />
+    <entry file="file://$PROJECT_DIR$/testMatch.txt-match-result.txt" />
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-merge-report.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-dir-content.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs/speech_snednum_test.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt-match-result.txt" />
+    <entry file="file://$PROJECT_DIR$/bnfs/speech_songs_test.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs/speech_col_test.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt-match-failed-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt-match-success-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnfs-all-sentences.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7614">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SpeechTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="76" column="11" lean-forward="false" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        <state relative-caret-position="-4337">
+          <caret line="287" column="17" lean-forward="true" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testMatch.txt-match-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/errorInfo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="280" column="50" lean-forward="false" selection-start-line="280" selection-start-column="50" selection-end-line="280" selection-end-column="50" />
+        <state relative-caret-position="679">
+          <caret line="267" column="40" lean-forward="false" selection-start-line="267" selection-start-column="40" selection-end-line="267" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-start.txt-errorInfo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bnfs-dir-start-parse-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExtendSentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="151" column="87" lean-forward="false" selection-start-line="151" selection-start-column="87" selection-end-line="151" selection-end-column="87" />
+        <state relative-caret-position="6831">
+          <caret line="257" column="28" lean-forward="true" selection-start-line="257" selection-start-column="28" selection-end-line="257" selection-end-column="28" />
           <folding />
         </state>
       </provider>
