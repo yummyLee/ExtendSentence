@@ -1,0 +1,13 @@
+###speech_col_test.bnf
+10#(<CollectionCollectionCollectionCollectionCollection>)
+12#(<prePlayCollection> [<stableSpeech> | <prePlayCollection>] <stableSpeech>)
+13#(<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>)
+14#((<prePlayCollection>|<stableSpeech>))
+
+###speech_snednum_test.bnf
+9#<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>
+
+###speech_songs_test.bnf
+10#(<SongsSongsSongsSongsSongs>)
+12#(<prePlaySong> <SongsSongsSongsSongsSongs>)
+

@@ -1,0 +1,75 @@
+#BNF+IAT 1.0;
+!grammer merge_res;
+
+!slot <callnumberto>;
+!slot <prePlayCollection>;
+!slot <howToPlay>;
+!slot <sendnumwant>;
+!slot <Contacts>;
+!slot <CollectionCollectionCollectionCollectionCollection>;
+!slot <stableSpeech>;
+!slot <sendass>;
+!slot <to>;
+!slot <prePlaySong>;
+!slot <SongsSongsSongsSongsSongs>;
+!slot <bnfFileName>;
+
+!start <merge_resStart>;
+<merge_resStart>:
+(<CollectionCollectionCollectionCollectionCollection>)|
+(<prePlayCollection> [<stableSpeech> | <prePlayCollection>] <stableSpeech>)|
+(<CollectionCollectionCollectionCollectionCollection> <prePlayCollection>)|
+(<howToPlay>)|
+<sendnumwant> <sendass> <Contacts> <callnumberto> <to> <Contacts>|
+(<SongsSongsSongsSongsSongs>)|
+(<prePlaySong> <SongsSongsSongsSongsSongs>);
+
+<callnumberto>:
+"cellphone"|
+"phone number"|
+"telephone number"|
+"phone code"|
+"telephone code"|
+"number";
+
+<prePlayCollection>:
+"navigate to"|
+"turn to";
+
+<howToPlay>:
+"<prePlayCollection>|<stableSpeech>";
+
+<sendnumwant>:
+"I want";
+
+<Contacts>:
+"name";
+
+<CollectionCollectionCollectionCollectionCollection>:
+"collections"|
+"please"|
+"collection";
+
+<stableSpeech>:
+"please col"|
+"please";
+
+<sendass>:
+"send";
+
+<to>:
+"to";
+
+<prePlaySong>:
+"listen"|
+"turn to";
+
+<SongsSongsSongsSongsSongs>:
+"song"|
+"songs";
+
+<bnfFileName>:
+"speech_col_test.bnf"|
+"speech_snednum_test.bnf"|
+"speech_songs_test.bnf";
+

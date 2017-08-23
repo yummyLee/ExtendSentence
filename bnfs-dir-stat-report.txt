@@ -1,0 +1,383 @@
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:30:13]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:30:13]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:30:13]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:30:13]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:30:13]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:30:13]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:30:13]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:31:56]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:31:56]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:31:56]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:31:56]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:31:56]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:31:56]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:31:56]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:32:45]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:32:45]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:32:45]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:32:45]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:32:45]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:32:45]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:32:45]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:35:09]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:35:09]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:35:09]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:35:09]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:35:09]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:35:09]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:35:09]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:36:18]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:36:18]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:36:18]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:36:18]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:36:18]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:36:18]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:36:18]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:37:37]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:37:37]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:37:38]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:37:38]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:37:38]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:37:38]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:37:38]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:38:23]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:38:23]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:38:23]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:38:23]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:38:23]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:38:23]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:38:23]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:40:16]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:40:16]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:40:16]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:40:16]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:40:16]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:40:16]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:40:16]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:59:06]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:59:06]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:59:06]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:59:06]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:59:06]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:59:06]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:59:06]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 15:59:28]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 15:59:28]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 15:59:28]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 15:59:28]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 15:59:28]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 15:59:28]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 15:59:28]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:08:52]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:08:52]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:08:52]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:08:52]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:08:52]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:08:52]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:08:52]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:13:29]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:13:29]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:13:29]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:13:29]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:13:29]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:13:29]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:13:29]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:14:13]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:14:13]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:14:13]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:14:13]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:14:13]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:14:13]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:14:29]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:14:29]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:14:29]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:14:29]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:14:29]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:14:29]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:15:13]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:15:13]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:15:13]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:15:13]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:15:13]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:15:13]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:16:17]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:16:17]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:16:17]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:16:17]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:16:17]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:16:17]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:17:14]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:17:14]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:17:14]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:17:14]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:17:14]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:17:14]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:18:08]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:18:08]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:18:08]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:18:08]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:18:08]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:18:08]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:21:40]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:21:40]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:21:40]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:21:40]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:21:40]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:21:40]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:26:10]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:26:10]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:26:10]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:26:10]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:26:10]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:26:10]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:41:36]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:41:36]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:41:36]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:41:36]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:41:36]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:41:36]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:42:08]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:42:08]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:42:08]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:42:08]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:42:08]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:42:08]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:42:33]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:42:33]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:42:33]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:42:33]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:42:33]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:42:33]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:42:48]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:42:48]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:42:48]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:42:48]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:42:48]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:42:48]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:42:48]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:42:55]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:42:55]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:42:55]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:42:55]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:42:55]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:42:55]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:42:55]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:43:27]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:43:27]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:43:27]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:43:27]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:43:27]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:43:27]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:43:27]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 16:43:36]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 16:43:36]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 16:43:36]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 16:43:36]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 16:43:36]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 16:43:36]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 16:43:36]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 17:35:07]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 17:35:07]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 17:35:07]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 17:35:07]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 17:35:07]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 17:35:07]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 17:35:07]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 18:33:56]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 18:33:56]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 18:33:56]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 18:33:56]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 18:33:56]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 18:33:56]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 18:33:56]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 18:36:12]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 18:36:12]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 18:36:12]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 18:36:12]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 18:36:12]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 18:36:12]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 18:36:12]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 18:41:18]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 18:41:18]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 18:41:18]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 18:41:18]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 18:41:18]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 18:41:18]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 18:41:18]: slot <songsstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_col_test.bnf
+[2017-08-22 20:11:02]: slot CollectionCollectionCollectionCollectionCollection name length longer than 14 in line 5
+[2017-08-22 20:11:02]: slot prePlayCollection name length longer than 14 in line 6
+[2017-08-22 20:11:02]: slot <collectionstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_snednum_test.bnf
+[2017-08-22 20:11:02]: slot <sendnumstart> appears less than 3 times
+
+D:\JavaPro\ExtendSentence\bnfs\speech_songs_test.bnf
+[2017-08-22 20:11:02]: slot SongsSongsSongsSongsSongs name length longer than 14 in line 5
+[2017-08-22 20:11:02]: slot <stableSpeech> appears less than 3 times
+[2017-08-22 20:11:02]: slot <songsstart> appears less than 3 times
+
